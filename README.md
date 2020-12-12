@@ -1,2 +1,2 @@
 # gurukul
-gurukul uni
+gurukul uni import gurus 
